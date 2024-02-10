@@ -1,2 +1,2 @@
-# Netflix._clone
-front page of the Netflix page
+# Clone
+Landing pages of Microsoft and Netflix
